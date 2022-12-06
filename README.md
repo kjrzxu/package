@@ -1,1 +1,1 @@
-# package-other
+# packager-other for OpenWrt-LEDE 18.06
