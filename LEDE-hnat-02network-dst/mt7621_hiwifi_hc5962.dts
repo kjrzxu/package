@@ -61,7 +61,7 @@
 	};
 };
 
-&nand {
+&spi0  {
 	status = "okay";
 
 	partitions {
