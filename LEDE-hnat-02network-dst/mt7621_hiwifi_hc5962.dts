@@ -61,7 +61,7 @@
 	};
 };
 
-&nand  {
+&nand {
 	status = "okay";
 
 	partitions {
