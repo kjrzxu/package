@@ -174,7 +174,7 @@ end
 end
 end
 if nixio.fs.access("/etc/config/ddns")then
-s:tab("ddnsconf",translate("配置ddns"),translate("本页是配置/etc/config/ddns"))
+s:tab("ddnsconf",translate("配置DDNS"),translate("本页是配置/etc/config/ddns"))
 conf=s:taboption("ddnsconf",Value,"ddnsconf",nil,translate("开头的数字符号（＃）或分号的每一行（;）被视为注释；删除（;）启用指定选项。"))
 conf.template="cbi/tvalue"
 conf.rows=20
