@@ -1,3 +1,6 @@
+msgid "Control"
+msgstr "管控"
+
 msgid "Speed Limit"
 msgstr "用户限速"
 
