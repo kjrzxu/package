@@ -28,8 +28,8 @@ msgstr "上传速度"
 msgid "Comment"
 msgstr "备注"
 
-msgid ""
-msgstr ""
+msgid "Control"
+msgstr "管控"
 
 msgid ""
 msgstr ""
