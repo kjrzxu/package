@@ -5,7 +5,7 @@
  *      Copyright 2019 Jerrykuku <jerrykuku@qq.com>
  *
  *  Have a bug? Please create an issue here on GitHub!
- *      https://github.com/jerrykuku/luci-theme-argonn/issues
+ *      https://github.com/jerrykuku/luci-theme-argon/issues
  *
  *  luci-theme-bootstrap:
  *      Copyright 2008 Steven Barth <steven@midlink.org>
@@ -19,7 +19,7 @@
  *      https://github.com/LuttyYang/luci-theme-material/
  *
  *  Agron Theme
- *	    https://demos.creative-tim.com/argonn-dashboard/index.html
+ *	    https://demos.creative-tim.com/argon-dashboard/index.html
  *
  *  Login background
  *      https://unsplash.com/
