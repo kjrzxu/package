@@ -1,0 +1,20 @@
+msgid "Tunnel client - formerly Argo Tunnel"
+msgstr "隧道客户端-"
+
+msgid "Enable"
+msgstr "开启"
+
+msgid "Tunnel Token"
+msgstr "隧道Token"
+
+msgid "Tunnel with free random URL"
+msgstr "使用免费随机URL"
+
+msgid "Create or manage your cloudflared tunnel"
+msgstr "创建或管理你的cloudflare隧道"
+
+msgid "Setting"
+msgstr "设置"
+
+msgid "Tunnel Info"
+msgstr "隧道信息"
