@@ -9,8 +9,8 @@ entry({"admin","vpn"}, firstchild(), "VPN", 49).dependent = false
 
 entry({"admin", "vpn", "cloudflared"},firstchild(), _("Cloudflared")).dependent = false
 
-entry({"admin", "vpn", "cloudflared", "general"},cbi("cloudflared/settings"), _("设置"), 1)
-entry({"admin", "vpn", "cloudflared", "log"},form("cloudflared/info"), _("隧道信息"), 2)
+entry({"admin", "vpn", "cloudflared", "general"},cbi("cloudflared/settings"), _("Setting"), 1)
+entry({"admin", "vpn", "cloudflared", "log"},form("cloudflared/info"), _("Tunnel Info"), 2)
 
 entry({"admin","vpn","cloudflared","status"},call("act_status"))
 end
