@@ -1,5 +1,8 @@
-msgid ""
-msgstr ""
+msgid "Setting"
+msgstr "设置"
+
+msgid "Tunnel Info"
+msgstr "隧道信息"
 
 msgid "Tunnel client - formerly Argo Tunnel"
 msgstr "隧道客户端-以前的Argo Tunnel"
@@ -15,9 +18,3 @@ msgstr "隧道使用免费随机的URL域名"
 
 msgid "Create or manage your cloudflared tunnel"
 msgstr "创建或管理你的cloudflare隧道"
-
-msgid "Setting"
-msgstr "设置"
-
-msgid "Tunnel Info"
-msgstr "隧道信息"
