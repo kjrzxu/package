@@ -1,10 +1,5 @@
 msgid ""
 msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.7\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Tunnel client - formerly Argo Tunnel"
 msgstr "隧道客户端-以前的Argo Tunnel"
@@ -16,7 +11,7 @@ msgid "Tunnel Token"
 msgstr "隧道Token"
 
 msgid "Tunnel with free random URL"
-msgstr "使用免费随机的URL域名"
+msgstr "隧道使用免费随机的URL域名"
 
 msgid "Create or manage your cloudflared tunnel"
 msgstr "创建或管理你的cloudflare隧道"
