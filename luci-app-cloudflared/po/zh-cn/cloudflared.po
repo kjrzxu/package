@@ -17,4 +17,4 @@ msgid "Tunnel with free random URL"
 msgstr "隧道使用免费随机的URL域名"
 
 msgid "Create or manage your cloudflared tunnel"
-msgstr "创建或管理你的cloudflare隧道"
+msgstr "点击跳转到Cloudflared.com网站，创建或管理你的cloudflare隧道"
