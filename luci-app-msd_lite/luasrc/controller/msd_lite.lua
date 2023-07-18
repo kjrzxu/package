@@ -5,10 +5,10 @@ function index()
 		return
 	end
 
-	local page = entry({"admin", "services", "msd_lite"}, cbi("msd_lite"), _("msd_lite"))
+	local page = entry({"admin"， "services"， "msd_lite"}, cbi("msd_lite"), _("IPTV单播"))
 	page.dependent = true
 
-	entry({"admin", "services", "msd_lite", "status"}, call("status")).leaf = true
+	entry({"admin"， "services"， "msd_lite"， "status"}, call("status")).leaf = true
 end
 
 function status()
