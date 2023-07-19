@@ -6,7 +6,7 @@ msgid "RUNNING"
 msgstr "运行中"
 
 msgid "MultiSD_Lite"
-msgstr "MultiSD_Lite"
+msgstr "组播转换"
 
 msgid "Multi Stream daemon Lite"
 msgstr "组播转换 Lite"
