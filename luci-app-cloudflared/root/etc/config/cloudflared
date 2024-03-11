@@ -1,6 +1,5 @@
-
-config cloudflared 'sample_config'
-	list token 'eyJhIjoiMzQ3NTNhNDBlZTg4NTYzMDU5YmUzN2U2ZDY4YjEzY2QiLCJ0IjoiNTJkMjkwYTktNmFiNy00NDM5LThlODYtMzhmYTI0NTBhZjNhIiwicyI6IlptRXlOekl4TURZdFpUa3dPUzAwTnprM0xUbGlaR1l0TWpNNVpUUTBNV0k0TTJNMSJ9'
-	option free '0'
-	option enabled '0'
-
+config cloudflared 'config'
+	    option cmdenabled '0'
+	    option enabled '0'
+     	option loglevel 'info'
+	

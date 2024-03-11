@@ -7,6 +7,6 @@ uci -q batch <<-EOF >/dev/null
 	commit ucitrack
 EOF
 
-rm -f /tmp/luci-indexcache
+rm -f /tmp/luci-indexcache /tmp/luci-modulecache
 chmod 755 /etc/init.d/cloudflared
 exit 0
